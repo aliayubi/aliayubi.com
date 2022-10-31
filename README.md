@@ -1,4 +1,4 @@
-## My Personal Website source code built using TypeScript, Next.JS 13 & MongoDB
+## My Personal Website source code built using TypeScript, Next.JS 13, MongoDB & TailwindCSS
 
 # Getting Started
 
